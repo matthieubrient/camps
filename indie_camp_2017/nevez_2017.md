@@ -100,7 +100,7 @@ Limitée à 20 places max par jour
 * OpenRov Realoded
 * [Build Your Own Device For InfraTerrestrial](https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project)
 * Arduino, raspberry
-* Langage informatique makdown, solidity
+* Langage informatique markdown, solidity
 * git, github, gitlab
 * Edithon multibao et movilab et autres wikis
 * Le biomimétisme est-il une éthique ? groupe de réflexion et recherche
