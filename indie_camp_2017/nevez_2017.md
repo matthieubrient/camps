@@ -83,6 +83,7 @@ Limitée à 20 places max par jour
   * Aurélien Juan Marty, Movilab.org / Open Factory St Etienne / Medi@Lab, du 1 au au 10 depuis St Etienne
   * François, Développeur,Président de KonkArLab, le fablab de Concarneau, passage en intermitence en "bon voisin".
   * Victor Didelot, Makery.info, du 1 au 7 juillet.
+  * Matthieu Brient, LabFab / La Sophiste / Museomix, du 03 au 07 juillet. **Covoit' possible de Rennes.** 
   
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic, 29920 Névez, 47.8319385,-3.801687,17
@@ -112,16 +113,16 @@ Les campers devront
 
 ### Logistique
 
-{tu mets tes intiales et ce que tu amènes et/ou tu rajoutes ce dont tu as besoin}
+{tu mets tes initiales et ce que tu amènes et/ou tu rajoutes ce dont tu as besoin}
 
 #### Besoins en matériel
 
-*   Musique / Son 
+*   Musique / Son (MB, une enceinte/ampli)
 *   Barbecue 
 *   Charbon 
-*   Rallonges et multi-prises - j'en apporte 2 
+*   Rallonges et multi-prises - j'en apporte 2 (MB +1)
 *   couverts et plats , planches à découper... (RT pour une partie)
-*   tente et matelas
+*   tente et matelas (MB +1)
 *   Cordages, bâches, voiles, hamacs (RT)
 *   Plans et estimation des matériaux pour WC sec (récipients fournis, cabane et composteur à construire)
 *   amplificateur wifi
@@ -131,7 +132,7 @@ Les campers devront
 *   Tente, duvet, matelas / participant si vous voulez dormir (RT)
 *   Vis inox et visseuse pour construction toilette sèche (RT pour la visseuse)
 *   Prévoir un accès internet
-*   Quelques arduino, Pi
+*   Quelques arduino, Pi 
 *   Outils de bricolage 
 *   Fer à souder, multimètre, 
 *   Cannes à pêche
